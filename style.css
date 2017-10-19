@@ -1,15 +1,26 @@
+@font-face {
+    font-family: Berk;
+    src: url(berkshireswash-regular.ttf);
+}
 body {
     background-color: #000000;
     color: lightgray;
     font-size: 28px;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Berk', monospace;
     font-weight: 700;
 }
-
 #container {
     width: 900px;
     margin-left: auto;
     margin-right: auto;
+}
+#category {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 2px;
+    margin-top: 3px;
+    font-size: 22px;
 }
 #board {
     width: 900px;
