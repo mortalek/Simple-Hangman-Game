@@ -1,7 +1,7 @@
 var entries = [
     'Bend the knee',
     'Biednemu zawsze wiatr w oczy',
-    'Co głupi straci, tym się mądry wzbogaci',
+    'Co głupi straci tym się mądry wzbogaci',
     'Co ma wisieć nie utonie',
     'Gdy kota nie ma myszy harcują',
     'Grosz do grosza a będzie kokosza',
